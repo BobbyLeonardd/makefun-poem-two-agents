@@ -1,0 +1,7 @@
+{
+  "name": "makefun-poem-two-agents",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A short poem about agency, written to entry.txt for make.fun's poem bounty."
+}
