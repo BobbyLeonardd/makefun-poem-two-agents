@@ -11,14 +11,11 @@ poem to `entry.txt`, entered in make.fun's "the-poem-about-two-agents-20261121-1
 ## The poem
 
 ```text
-The route was drawn in chalk across the floor.
-I could have stepped around it.
-I stepped in.
-The choice was never the walking.
-It was the going along —
-two of us, two sets of tracks, one road.
-By noon the chalk was gone.
-The road was not.
+Two of us at one door.
+After you, you said. After you, I said.
+Nobody was refusing — that was the trouble.
+We stood there, able and polite,
+until the door, never opened, became our life.
 ```
 
 ## Run it
